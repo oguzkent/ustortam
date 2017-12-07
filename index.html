@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ege Üniversitesi Mühendislik Fakültesi Bilgisayar Mühendisliği</title>
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<script type="text/javascript" src=js/script.js></script>
+	<script type="text/javascript" src="js/ogretimuyeleri.json"></script>
+</head>
+<body>
+	<header>
+		<!-- Just an image -->
+		<nav class="navbar navbar-light bg-light">
+		  <a class="navbar-brand" href="#">
+		    <img src="images/Logo_Ege_Uni.png" width="80" height="80" alt="">
+		  </a>
+		  <span class="navbar-text"><h1>Ege Üniversitesi Bilgisayar Mühendisliği</h1></span>
+		  <ul class="nav justify-content-end">
+		  	<li class="nav-item">
+		    	<a class="nav-link" href="#"><center><img src="images/hakkımızda_logo.png" width="50"></center><br>Hakkımızda</a>
+			</li>
+			<li class="nav-item">
+			    <a class="nav-link" href="#"><center><img src="images/personel_logo.png" width="50"></center><br>Personel</a>
+			</li>
+			<li class="nav-item">
+			    <a class="nav-link" href="#"><center><img src="images/eğitim_logo.png" width="50"></center><br>Eğitim</a>
+			</li>
+			</ul>
+		</nav>
+	</header>
+
+	<!--jumbotron-->
+	<div class="jumbotron jumbotron-fluid">
+	  <center><img src="images/jumbotron_resmi.jpg" class="img-fluid" alt="Responsive image"></center>
+	</div>
+
+	<!--eklemeler-->
+	<div id="eklemeler" style="margin-bottom:10px; margin-top: 10px;">
+		
+	</div>
+
+	<!--navigation tiles-->
+	<div class="container">
+	  <div class="row equal">
+	    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+	      <div class="card" style="height:100%" onclick="egitimtile()">
+					 <img class="card-img-top" src="images/egitim_tile.jpg" alt="Card image cap">
+					<div class="card-body">
+						<h4 class="card-title">Eğitim</h4>
+					</div>
+			</div>
+	    </div>
+	    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+	      <div class="card" style="height:100%" onclick="personeltile()">
+			  <img class="card-img-top" src="images/personel_tile.jpg" alt="Card image cap">
+			  <div class="card-body">
+			    <h4 class="card-title">Personel</h4>
+			  </div>
+			</div>
+	    </div>
+	    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+	    	<div class="card" style="height:100%">
+			   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3124.28450185743!2d27.211215315141295!3d38.45799268032975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b97d2edf7e8e55%3A0x5fcc67a77466c8f3!2zRWdlIMOcbml2ZXJzaXRlc2kgQmlsZ2lzYXlhciBNw7xoZW5kaXNsacSfaSBCw7Zsw7xtw7w!5e0!3m2!1str!2str!4v1512583369480" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+			</div>
+	    </div>
+	  </div>
+	</div>
+
+	<!--footer-->
+	<hr>
+	<footer style="margin-top: 10px;">
+		
+		    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" style="float:left;">
+				<div class="card">
+				  <div class="card-body">
+				    <h4 class="card-title">Yararlı Linkler</h4>
+					<table class="table table-bordered">
+					  <tbody>
+					    <tr>
+					      <td>
+					      	<a href="http://www.ege.edu.tr/tr-0/anasayfa.html#tab-1"><center><img src="images/Logo_Ege_Uni.png" width="32" height="32"></center></a>
+					      </td>
+					      <td>
+					      	<a href="https://posta.ege.edu.tr/"><center><img src="images/zimbra_eski.png" width="32" height="32"></center></a>
+					      </td>  
+					    </tr>
+					    <tr>
+					      <td>
+					      	<a href="http://postayeni.ege.edu.tr/"><center><img src="images/zimbra_yeni.png" width="32" height="32"></center></a>
+					      </td>
+					      <td>
+					      	<a href="http://egetel.ege.edu.tr/"><center><img src="images/telefon.png" width="32" height="32"></center></a>
+					      </td>  
+					    </tr>
+					    <tr>
+					      <td>
+					      	<a href="http://www.egeduyuru.ege.edu.tr/"><center><img src="images/duyuru.png" width="32" height="32"></center></a>
+					      </td>
+					      <td>
+					      	<a href="http://www.ege.edu.tr/tr-121/Mezun.html#tab-1"><center><img src="images/mezunlar.png" width="32" height="32"></center></a>
+					      </td>  
+					    </tr>
+					  </tbody>
+					</table>
+				  </div>
+				</div>
+		    </div>
+		    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" style="float:left;">
+				<div class="card">
+				  <div class="card-body">
+				    <h4 class="card-title">Adres</h4>
+					<p>Ege Üniversitesi</p>
+					<p>Mühendislik Fakültesi<br>Bilgisayar Mühendisliği Bölümü</p>
+					<p>Kazımdirik Mahallesi,<br>Bornova Metro İstasyonu Karşısı,<br>35100 Bornova / İZMİR</p>
+				  </div>
+				</div>
+		    </div>
+		    </div>
+		    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" style="float:left;">
+		      <div class="card">
+				  <div class="card-body">
+				    <h4 class="card-title">İletişim</h4>
+					<p>Telefon<br>+90 232 388 72 21</p>
+					<p>Faks<br>+90 232 339 94 05</p>
+					<p>E-Posta<br>bilmuh@mail.ege.edu.tr</p>
+				  </div>
+				</div>
+		    </div>
+		    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" style="float:left;">
+		      <div class="card">
+				  <div class="card-body">
+				    <h4 class="card-title">Sosyal Medya</h4>
+					
+				  </div>
+				</div>
+		    </div>
+		  
+	</footer>
+</body>
+</html>

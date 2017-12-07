@@ -1,0 +1,82 @@
+[
+	{
+		"resim":"images/ogretim uyeleri/oguz_dikenelli.jpg",
+		"Ad":"Prof. Dr. Oğuz Dikenelli",
+		"E-Posta":"oguz.dikenelli@ege.edu.tr"
+	},
+	{
+		"resim":"images/ogretim uyeleri/serdar_korukoglu.jpg",
+		"Ad":"Prof. Dr. Serdar Korukoğlu",
+		"E-Posta":"serdar.korukoglu@ege.edu.tr"
+	},
+	{
+		"resim":"images/ogretim uyeleri/levent_toker.jpg",
+		"Ad":"Prof. Dr. Levent Toker",
+		"E-Posta":"toker1960@gmail.com"
+	},
+	{
+		"resim":"images/ogretim uyeleri/yasemin_topaloglu.jpg",
+		"Ad":"Prof. Dr. Yasemin Topaloğlu",
+		"E-Posta":"yasemin.topaloglu@ege.edu.tr"
+	},
+	{
+		"resim":"images/ogretim uyeleri/aylin_kantarci.jpg",
+		"Ad":"Prof. Dr. Aylin Kantarcı",
+		"E-Posta":"aylin.kantarcı@ege.edu.tr"
+	},
+	{
+		"resim":"images/ogretim uyeleri/aybars_ugur.jpg",
+		"Ad":"Prof. Dr. Aybars Uğur",
+		"E-Posta":"aybars.ugur@ege.edu.tr"
+	},
+	{
+		"resim":"images/ogretim uyeleri/cenk_erdur.jpg",
+		"Ad":"Doç. Dr. Rıza Cenk Erdur",
+		"E-Posta":"cenk.erdur@ege.edu.tr"
+	},
+	{
+		"resim":"images/ogretim uyeleri/murat_osman_unalir.jpg",
+		"Ad":"Doç. Dr. Murat Osman Ünalır",
+		"E-Posta":"murat.osman.unalir@ege.edu.tr"
+	},
+	{
+		"resim":"images/ogretim uyeleri/vecdi_aytac.jpg",
+		"Ad":"Doç. Dr. Vecdi Aytaç",
+		"E-Posta":"vecdi.aytac@ege.edu.tr"
+	},
+	{
+		"resim":"images/ogretim uyeleri/sebnem_bora.jpg",
+		"Ad":"Yrd. Doç. Dr. Şebnem Bora",
+		"E-Posta":"sebnem.bora@ege.edu.tr"
+	},
+	{
+		"resim":"images/ogretim uyeleri/hasan_bulut.png",
+		"Ad":"Yrd. Doç. Dr. Hasan Bulut",
+		"E-Posta":"hasan.bulut@ege.edu.tr"
+	},
+	{
+		"resim":"images/ogretim uyeleri/ozgur_gumus.jpg",
+		"Ad":"Yrd. Doç. Dr. Özgür Gümüş",
+		"E-Posta":"ozgur.gumus@ege.edu.tr"
+	},
+	{
+		"resim":"images/ogretim uyeleri/ozgu_can.jpg",
+		"Ad":"Yrd. Doç. Dr. Özgü Can",
+		"E-Posta":"ozgu.can@ege.edu.tr"
+	},
+	{
+		"resim":"images/ogretim uyeleri/ahmet_egesoy.jpg",
+		"Ad":"Yrd. Doç. Dr. Ahmet Egesoy",
+		"E-Posta":"ahmet.egesoy@ege.edu.tr"
+	},
+	{
+		"resim":"images/ogretim uyeleri/kasim_sinan_yildirim.jpg",
+		"Ad":"Yrd. Doç. Dr. Kasım Sinan Yıldırım",
+		"E-Posta":"sinan.yildirim@ege.edu.tr"
+	},
+	{
+		"resim":"images/ogretim uyeleri/emine_sezer.jpg",
+		"Ad":"Yrd. Doç. Dr. Emine Sezer",
+		"E-Posta":"emine.sezer@ege.edu.tr"
+	},
+]
